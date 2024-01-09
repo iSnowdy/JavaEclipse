@@ -9,7 +9,8 @@ public class JavaTest {
 	    
 	    String centro_educativo = "Cesur";
 	    System.out.println(nombre + "studies Web Development in " + centro_educativo);
-	    String not_good = "aaa";
+	    
+	    String last_name = "López"; 
 	    
 	  }
 	}
