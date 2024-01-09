@@ -11,6 +11,7 @@ public class JavaTest {
 	    System.out.println(nombre + "studies Web Development in " + centro_educativo);
 	    
 	    String last_name = "López"; 
+	    System.out.println(last_name);
 	    
 	  }
 	}
